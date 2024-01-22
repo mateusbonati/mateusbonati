@@ -1,6 +1,6 @@
 
 
-## Olá! Sou o Mateus Bonati, cientista de dados e  apaixonado por tecnologia!
+##Hello! I'm Mateus Bonati, data scientist and passionate about technology. I have projects in the area of ​​Machine Learning, deep learning and AI!
 
 <div align="center">
   <a href="https://github.com/mateusbonati">
