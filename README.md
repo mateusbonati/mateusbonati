@@ -1,7 +1,8 @@
 
 
-##Hello! I'm Mateus Bonati, data scientist and passionate about technology. I have projects in the area of ​​Machine Learning, deep learning and AI!
+## Hello! I'm Mateus Bonati, Data Scientist and Technology Enthusiast
 
+I am deeply passionate about technology, with a strong background and extensive projects in the areas of Machine Learning, Deep Learning, Artificial Intelligence, Image Processing, and Data Engineering. I hold a degree in Electrical Engineering with a focus on Electronics from the University of São Paulo, an MBA in Data Science and Analytics from the same university, and have completed a course in Artificial Intelligence from Stanford University. My academic background and practical experience have equipped me with a unique set of skills, enabling me to tackle complex challenges in the tech world. I am constantly exploring new technologies and methodologies to enhance my knowledge and contribute to the field.
 
 
 <div style="display: inline_block"><br>
@@ -21,8 +22,11 @@
 
 
 </div>
+
+<div style="margin-top: 20px;"> 
   
-  
+
+
  
 <div> 
   
