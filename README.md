@@ -22,8 +22,8 @@ I am deeply passionate about technology, with a strong background and extensive 
 
 
 </div>
-
-<div style="margin-top: 20px;"> 
+<br>
+<div> 
   
 
 
